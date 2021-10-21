@@ -20,4 +20,4 @@ Skills: English, Clean Code, Clean Architecture, TDD, OO, SOLID, Design Patterns
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/delesposte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flaviodelesposte/)
 
-*NOTE: top languages does not indicate my skill level or something like that.*
+*NOTE: contributions, public projects or top languages does not indicate my skill level or something like that.*
