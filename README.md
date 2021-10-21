@@ -1,6 +1,9 @@
 ### Hi there, I'm Flávio Delesposte! 👋
 
-I have more than 10 years of career in the IT field and it provided me experiences such as:
+I am a brazilian software engineer and entrepreneur. I have been learning and using a lot of technologies and languages to build software since 2010.
+
+## 💻 Skills & Proficiency
+More than 10 years of career in the IT field provided me experiences such as:
 
 - Consulting in systems development;
 - Project leadership;
