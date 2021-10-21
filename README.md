@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Flávio Delesposte! 👋
 
-<!--
-**delesposte/delesposte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More than 10 years of career in the IT field provided me experiences such as:
 
-Here are some ideas to get you started:
+- Consulting in systems development;
+- Project leadership;
+- Requirements Survey and Analysis;
+- Training for other developers;
+- Business experience in several areas using technologies with emphasis on Retail, Brazilian Tax Model (NFe, CTe, MDFe, SPED), Gas Stations, School Management and Rock Industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about challenges and about developing quality software, using elements such as Design Patterns, OO, SOLID and other related concepts, but most of all, about being able to make people's lives easier and organizations more productive.
+
+Skills: English, Clean Code, Clean Architecture, TDD, OO, SOLID, Design Patterns, NodeJS, JavaScript, TypeScript, HTML, CSS, Angular, Bootstrap, Delphi, Dart, Flutter, SQL Server, Firebird, MySQL, Redis, SQLite, Git, Subversion, Scrum, Kanban, etc.
