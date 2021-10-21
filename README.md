@@ -1,6 +1,6 @@
 ### Hi there, I'm Flávio Delesposte! 👋
 
-More than 10 years of career in the IT field provided me experiences such as:
+I have more than 10 years of career in the IT field and it provided me experiences such as:
 
 - Consulting in systems development;
 - Project leadership;
