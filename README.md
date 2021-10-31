@@ -10,7 +10,7 @@ More than 10 years of career in the IT field provided me experiences such as:
 - Project leadership;
 - Requirements survey and analysis;
 - Training for other developers;
-- Business experience in several areas using technologies with emphasis on retail, brazilian tax model (NFe, CTe, MDFe, SPED), gas stations, school management and rock industries.
+- Business experience in several areas using technologies with emphasis on retail, Brazilian tax model (NFe, CTe, MDFe, SPED), gas stations, school management and rock industries.
 
 I'm passionate about challenges and about developing quality software, using elements such as Design Patterns, OOP, SOLID and other related concepts, but most of all, about being able to make people's lives easier and organizations more productive.
 
